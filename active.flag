@@ -1,5 +1,5 @@
 {
-  "status": "aktif",
+  "status": "pasif",
   "sürüm": "v1.0.3",
   "limit": 1000,
   "hata_mesajı": "Sistem geçici olarak devre dışı"
